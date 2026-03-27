@@ -1,7 +1,0 @@
-<Solution>
-  <Project Path="registration.client/registration.client.esproj">
-    <Build />
-    <Deploy />
-  </Project>
-  <Project Path="Registration.Server/Registration.Server.csproj" />
-</Solution>
